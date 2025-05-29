@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Prompt Theory Logo](assets/images/prompt-theory-logo.png)
 
 ## **A Unified Framework for Understanding AI Prompting and Human Cognition**
 
