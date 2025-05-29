@@ -12,7 +12,7 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.13+-ee4c2c.svg)](https://pytorch.org/)
 
-[Paper](https://arxiv.org/abs/2305.xxxxx) | [Documentation](https://prompt-theory.readthedocs.io/) | [Examples](examples/) | [API Reference](docs/api/) | [Tutorials](tutorials/) | [Community](https://discord.gg/prompttheory)
+[Paper](https://arxiv.org/abs/2305.xxxxx) | [Documentation](#what-is-prompt-theory) | [Examples](examples/) | [API Reference](docs/api/) | [Tutorials](tutorials/) | [Community](https://discord.gg/prompttheory)
 
 </div>
 
