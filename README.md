@@ -193,7 +193,7 @@ If you use Prompt Theory in your research, please cite our paper:
 ```bibtex
 @inproceedings{prompt-theory-2025,
   title={Prompt Theory: A Unified Framework for Understanding AI Prompting and Human Cognition},
-  author={Martin, Deanna and Reynolds, Lawrence and McDonnell, Michael},
+  author={Kim, David and Keyes, Caspian},
   booktitle={Advances in Neural Information Processing Systems},
   year={2025}
 }
