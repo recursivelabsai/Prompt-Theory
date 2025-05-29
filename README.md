@@ -23,7 +23,9 @@ Prompt Theory is a foundational framework that establishes structural isomorphis
 <div align="center">
 
 
-https://github.com/user-attachments/assets/6f1625aa-d932-445c-8383-2cbef52bc741
+
+https://github.com/user-attachments/assets/e5a45bb0-6aea-4eb7-8afc-530c699a16f3
+
 
 
 
