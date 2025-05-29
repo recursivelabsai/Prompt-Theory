@@ -857,6 +857,7 @@ This structure is designed to:
 ## 6. AI Integration Architecture
 
 ```
+```
                  ┌─────────────────────┐
                  │ Cognitive Interface │
                  └─────────────────────┘
@@ -872,7 +873,7 @@ This structure is designed to:
 │   Confluence   │      Slack      │      Jira      │
 │   Integration  │   Integration   │   Integration  │
 └────────────────┴─────────────────┴────────────────┘
-```
+
 
 The AI system uses Prompt Theory principles to:
 1. Analyze content for cognitive characteristics
