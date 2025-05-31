@@ -1,4 +1,4 @@
-# Prompt Theory
+
 
 <div align="center">
 
@@ -20,6 +20,17 @@
 Prompt Theory is a foundational framework that establishes structural isomorphisms between artificial intelligence prompting systems and human neurobiological input-output mechanisms. By formalizing the parallels between prompt design and cognitive input processing, we reveal shared emergent properties, failure modes, and optimization pathways across both domains.
 
 <div align="center">
+
+# [Twitter](https://x.com/venturetwins/status/1927750673619120373) | [YouTube](https://www.youtube.com/watch?v=BLfV4sidcJM&ab_channel=Putchuon-%22PutYouOn%22) | [Tribune](https://tribune.com.pk/story/2547468/the-prompt-theory#:~:text=The%20realistic%20characters%20in%20those%20clips%20can,random%20prompt%20writer%20is%20deciding%20their%20fate.)
+
+<img width="882" alt="image" src="https://github.com/user-attachments/assets/c958281b-e996-4e09-bd11-ceb0e84a8e29" />
+
+<img width="883" alt="image" src="https://github.com/user-attachments/assets/d4af346d-6961-45a4-ac5b-531c3edc4212" />
+
+
+
+https://github.com/user-attachments/assets/7f2feab7-97a6-4004-bcc2-95f9024a692b
+
 
 
 
