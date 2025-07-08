@@ -5,7 +5,7 @@
 
 # Prompt Theory
 
-## **A Unified Framework for Understanding AI Prompting and Human Cognition**
+## **A Framework for Understanding AI Prompting and Human Cognition**
 
 [![Prompt Theory](https://img.shields.io/badge/Prompt--Theory-Preprint-b31b1b.svg)](https://github.com/recursivelabsai/Prompt-Theory/blob/main/Prompt%20Theory%20Preprint.md)
 [![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-4b44ce.svg)](https://neurips.cc/)
